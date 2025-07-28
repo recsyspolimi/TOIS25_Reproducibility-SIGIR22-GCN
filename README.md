@@ -1,6 +1,6 @@
 # Reproducibility and Artifact Consistency of the SIGIR 2022 Recommender Systems Papers Based on Message Passing - Source Code
 
-This repository was developed by <a href="https://mauriziofd.github.io/" target="_blank">Maurizio Ferrari Dacrema</a>, postdoctoral researcher at Politecnico di Milano. See our [website](http://recsys.deib.polimi.it/) for more information on our research group.
+This repository was developed by <a href="https://mauriziofd.github.io/" target="_blank">Maurizio Ferrari Dacrema</a>, Researcher at Politecnico di Milano. See our [website](http://recsys.deib.polimi.it/) for more information on our research group.
 This reporsitory contains the source code of the article: _**"Reproducibility and Artifact Consistency of the SIGIR 2022 Recommender Systems Papers Based on Message Passing", ACM TOIS 2025**_. The paper is available on [ACM DL (TODO)](), [ArXiv](https://arxiv.org/abs/2503.07823).
 
 Please cite our articles if you use this repository or our implementations of baseline algorithms [BibTex (TODO)](), remember also to cite the original authors if you use our porting of the algorithms based on Message Passing. 
